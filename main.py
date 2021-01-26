@@ -9,3 +9,5 @@ ax = plt.hist(x=rand, bins='auto', color='#0504aa',
                             alpha=0.7, rwidth=0.85)
 
 plt.show()
+
+##TODO make a save function
