@@ -8,4 +8,4 @@ rand = np.random.randint(1,100,1000)
 ax = plt.hist(x=rand, bins='auto', color='#0504aa',
                             alpha=0.7, rwidth=0.85)
 
-plt.show()
+plt.savefig('random_hist.pdf')
