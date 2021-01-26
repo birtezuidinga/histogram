@@ -1,6 +1,6 @@
 # Histogram
 
-##Purpose of the Project
+## Purpose of the Project
 A main.py script that:
 calculates randomly-distributed data using Numpy.
 Makes a histogram plot of the data.
