@@ -1,2 +1,3 @@
 .idea
 *.pdf
+!example_hist.pdf
